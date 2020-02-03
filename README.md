@@ -1,7 +1,7 @@
 # apartmentAccounts_PHP_HTML
 *              Simple database driven account creation/editing pages.
 * 
-* (For pages to provide all functinoality, a database connection is neccesary)
+* (For pages to provide all functionality, a database connection is neccesary)
 *
 * Using MYSQL, allow Managers, Tenants, and Staff accounts to be created.
 * If an account already exists, then the user in not allowed to create a duplicate and must log in instead
