@@ -18,8 +18,6 @@
 * (This collection was part of an assigned project for a database course at NMSU)
 * 
 *
-* Tips about page flow:
-* Home/Start page is index.php
 *
 * 'AddX.php' files take the user input for account creation and 'insertX' pages perform the checks against the database and perform the actual addition of user
 * 
